@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+    <theory>
+        <skill_1>testing_theory</skill_1>
+        <skill_2>bug_reporting</skill_2>
+        <skill_3>test_case</skill_3>
+        <skill_4>check_list</skill_4>
+        <skill_5>mobile_testing</skill_5>
+    </theory>
+    <web>
+        <client_server_1>http_methods</client_server_1>
+        <client_server_2>http_statuses</client_server_2>
+        <client_server_3>json_xml_structures</client_server_3>
+        <client_server_4>api_testing</client_server_4>
+    </web>
+    <tools>
+        <tool_1>postman</tool_1>
+        <tool_2>charles</tool_2>
+        <tool_3>fiddler</tool_3>
+        <tool_4>android_studio</tool_4>
+        <tool_5>jmeter</tool_5>
+        <tool_6>xcode</tool_6>
+        <tool_7>dev_tools</tool_7>
+    </tools>
+    <row>
+        <database>sql</database>
+        <git_bash>commands</git_bash>
+    </row>
+</skills>
