@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <about_me>
 	<surname>Анна Жовтобрух</surname>
 	  <first_name>Анна</first_name>
-	          <patronymic>Алексеевна</patronymic>
-              <age>28</age>
-	        <number_of_pets>1</number_of_pets>
+	       <patronymic>Алексеевна</patronymic>
+                    <age>28</age>
+	   <number_of_pets>1</number_of_pets>
 	<desired_salary>500</desired_salary>
 </about_me>
