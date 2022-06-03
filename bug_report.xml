@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+     <id>1</id>
+       <summary>в регистрации пользователя не работает форма заполнения имени</summary>
+         <steps_for_reproduce>открыть форму регистрации, в форму name ввести имя Аня</steps_for_reproduce>
+           <actual_result>в форму невозможно можно ввести имя</actual_result>
+              <expected_result>ввод имени в форме работает</expected_result>
+                 <severity>critical</severity>
+              <priority>high</priority>
+           <application_version>3</application_version>
+         <environment>android</environment>
+    <device>Xiaomi Redmi Note 9</device>
+</bug_report>
